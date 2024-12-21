@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeffbales
+- 👋 Hi, I’m @jeffsbales
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Microsoft Python for high school students
 - 😄 Pronouns: he
